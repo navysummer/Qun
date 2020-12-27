@@ -35,5 +35,5 @@
 | 软件测试入门到放弃   | 790314936  | https://jq.qq.com/?_wv=1027&k=8VX175fu |
 | 爬虫那点事儿         | 672649630  | https://jq.qq.com/?_wv=1027&k=jpkX3wAE |
 | 大数据入坑指南       | 1027127573 | https://jq.qq.com/?_wv=1027&k=Rxupi7ms |
+| 跨平台入门到入坑     | 785876341  | https://jq.qq.com/?_wv=1027&k=87EBAZB8 |
 
-# 
